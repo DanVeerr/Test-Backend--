@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wtmLNVJDQeDUDiINbuAUXKJTHhwlzaYU7ZvDllvfK0g=",
+  "Source": "TaskManagement.Logger",
+  "BasePath": "_content/TaskManagement.Logger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
